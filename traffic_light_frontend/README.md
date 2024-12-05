@@ -1,4 +1,4 @@
-## Ping frontend
+## Traffic Light frontend
 
 To install the dependencies you need to put in the console: 
 

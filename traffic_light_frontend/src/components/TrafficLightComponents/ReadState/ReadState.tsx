@@ -18,7 +18,6 @@ function ReadState() {
     const intervalId = setInterval(async () => {
       if (!sails) {
         alert.error('sails is not ready');
-        // console.log('sails is not ready');
         return;
       }
   
