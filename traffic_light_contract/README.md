@@ -66,7 +66,7 @@ If you don't have Rust installed, follow the steps below:
 
 If you already have installed rust, you need to check for updates:
 
-- To compile your contracts, you need to have rust 1.81 or newer to be able to compile the contract.
+- To compile your contracts, you need to have rust 1.83 or newer to be able to compile the contract.
 
     ```bash
     rustup install 1.83
